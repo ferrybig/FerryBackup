@@ -1,0 +1,8 @@
+name: FerryBackup
+main: me.ferry.bukkit.plugins.ferrybackup.FerryBackupPlugin
+version: 1.0.0
+author: ferrybig
+commands:
+  backup:
+    usage: /<command>
+    permission: backup.run
